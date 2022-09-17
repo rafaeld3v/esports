@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="License" src="./assets/capa.svg">
+  <img alt="License" src="./assets/Capa.svg">
 
  <img src="https://img.shields.io/static/v1?label=NLW-eSports&message=React&color=996DFF&labelColor=000000" alt="nlw-eSports" />
  <img src="https://img.shields.io/static/v1?label=NLW-eSports&message=ReactNative&color=996DFF&labelColor=000000" alt="nlw-eSports" />
