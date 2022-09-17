@@ -25,6 +25,12 @@ Mobile
 - [Typescript](https://www.typescriptlang.org/)
 - [Expo](https://expo.io/)
 
+Server
+
+- [Node](https://nodejs.org/en/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Prisma](https://www.prisma.io/)
+
 ## 💻 Projeto
 
 Encontre seu duo!
