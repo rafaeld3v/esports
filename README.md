@@ -5,7 +5,8 @@
 <p align="center">
   <img alt="License" src="./assets/capa.svg">
 
- <img src="https://img.shields.io/static/v1?label=NLW-eSports&message=React&message=ReactNative&color=996DFF&labelColor=000000&labelColor=000000" alt="nlw-eSports" />
+ <img src="https://img.shields.io/static/v1?label=NLW-eSports&message=React&color=996DFF&labelColor=000000" alt="nlw-eSports" />
+ <img src="https://img.shields.io/static/v1?label=NLW-eSports&message=ReactNative&color=996DFF&labelColor=000000" alt="nlw-eSports" />
 </p>
 
 <br>
