@@ -3,13 +3,13 @@ import { Image, FlatList } from "react-native";
 import { SafeAreaView } from "react-native-safe-area-context";
 import { useNavigation } from "@react-navigation/native";
 
-import logoImg from "../../assets/logo-nlw-esports.png";
-
 import { GameCard, IGameCardProps } from "../../components/GameCard";
 import { Background } from "../../components/Background";
 import { Heading } from "../../components/Heading";
 
 import { styles } from "./styles";
+
+import logoImg from "../../assets/logo-nlw-esports.png";
 
 export function Home() {
   const [games, setGames] = useState<IGameCardProps[]>([]);
