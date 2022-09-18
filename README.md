@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="License" src="./assets/capa.svg">
+  <img alt="License" src="./assets/Capa.svg">
 
  <img src="https://img.shields.io/static/v1?label=NLW-eSports&message=React&color=996DFF&labelColor=000000" alt="nlw-eSports" />
  <img src="https://img.shields.io/static/v1?label=NLW-eSports&message=ReactNative&color=996DFF&labelColor=000000" alt="nlw-eSports" />
@@ -25,6 +25,12 @@ Mobile
 - [Typescript](https://www.typescriptlang.org/)
 - [Expo](https://expo.io/)
 
+Server
+
+- [Node](https://nodejs.org/en/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Prisma](https://www.prisma.io/)
+
 ## 💻 Projeto
 
 Encontre seu duo!
@@ -35,4 +41,4 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## 📄 Licença
 
-Desenvolvido durante o NLW da Rocketseat **por** [**rafaeld3v**](https://www.linkedin.com/in/rafaeld3v/) 🤖
+Desenvolvido durante o NLW #09 da Rocketseat **por** [**rafaeld3v**](https://www.linkedin.com/in/rafaeld3v/) 🤖
